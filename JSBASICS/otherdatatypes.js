@@ -1,7 +1,7 @@
 /*
 Continued from previous Datatypes
 
-6)Null:It actually represent empty value
+6)Null:It actually represents empty value
 
 */
 var marks=100;
