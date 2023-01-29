@@ -1,2 +1,2 @@
-# Backend-NodeJS
-Learning Backend Development in Node JS from Scratch.
+# Backend-Development
+This repository contains notes for Backend Development in NodeJS
